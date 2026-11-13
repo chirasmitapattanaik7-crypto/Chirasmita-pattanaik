@@ -1,34 +1,105 @@
-# Chirasmita-pattanaik
 <h1 align="center">Hi 👋, I'm Chirasmita Pattanaik</h1>
-<h3 align="center">A passionate AIML developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chirasmita-pattanaik&label=Profile%20views&color=0e75b6&style=flat" alt="chirasmita-pattanaik" /> </p>
+<h3 align="center">💻 AI/ML Developer | Full-Stack Developer | Tech Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chirasmita-pattanaik" alt="chirasmita-pattanaik" /></a> </p>
-
-- 🔭 I’m currently working on [Animal detection system](thub.com/jyotiprakash2023-dev/AnimalDetection/tree/main/animal_Detection-main/animalditection)
-
-- 🌱 I’m currently learning **Artificial intelligence and Machine learning**
-
-- 💬 Ask me about **full Stack dev**
-
-- 📫 How to reach me **chirasmitapattanaik7@gmail.com**
-
-- ⚡ Fun fact **Exploring the world of AI & Machine Learning.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chirasmita pattanaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirasmita pattanaik" height="30" width="40" /></a>
-<a href="https://fb.com/chirasmita pattanaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chirasmita pattanaik" height="30" width="40" /></a>
-<a href="https://instagram.com/c.smita.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c.smita.a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chirasmita pattanaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chirasmita pattanaik" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Passionate+about+Artificial+Intelligence;Exploring+Machine+Learning;Building+Smart+and+Scalable+Applications;Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chirasmita-pattanaik&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/chirasmita-pattanaik?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirasmita-pattanaik&show_icons=true&locale=en&layout=compact" alt="chirasmita-pattanaik" /></p>
+🌟 About Me
+🔭 Currently working on Animal Detection System
+🌱 Currently learning Artificial Intelligence and Machine Learning
+💻 Interested in Full-Stack Development and AI-powered applications
+🤖 Exploring the exciting world of Machine Learning, Deep Learning and Computer Vision
+💬 Ask me about Full-Stack Development
+📫 Reach me at: chirasmitapattanaik7@gmail.com
+⚡ Fun fact: I love exploring new technologies and turning creative ideas into real-world solutions!
+🚀 Featured Project
+🐾 Animal Detection System
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirasmita-pattanaik&show_icons=true&locale=en" alt="chirasmita-pattanaik" /></p>
+An animal detection project focused on identifying animals using computer vision and AI.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirasmita-pattanaik&" alt="chirasmita-pattanaik" /></p>
+🔗 Explore the Animal Detection Project
+
+🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:chirasmitapattanaik7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://instagram.com/c.smita.a">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/chirasmita-pattanaik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
+
+<!-- Add your verified LinkedIn and other social profile URLs here when available. -->
+
+🛠️ Languages and Tools
+
+<p align="center">
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=c,cpp" alt="C and C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript,typescript" alt="JavaScript and TypeScript" /></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" alt="React, Next.js and Node.js" /></a>
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub" /></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker,aws" alt="Docker and AWS" /></a>
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch and TensorFlow" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode,linux" alt="VS Code and Linux" /></a>
+</p>
+
+📊 GitHub Analytics
+
+<p align="center">
+<img width="95%" src="https://ghstats.dev/api/card?username=chirasmita-pattanaik&theme=tokyonight" alt="GitHub analytics including repositories, stars, contributions, streak and followers" />
+</p>
+
+<p align="center">
+<img width="48%" src="https://ghstats.dev/api/card?username=chirasmita-pattanaik&theme=tokyonight&layout=compact" alt="GitHub statistics compact card" />
+<img width="48%" src="https://ghstats.dev/api/languages?username=chirasmita-pattanaik&theme=tokyonight&layout=donut" alt="Most used programming languages" />
+</p>
+
+🔥 Contribution Streak
+
+<p align="center">
+<img width="75%" src="https://streak-stats.demolab.com?user=chirasmita-pattanaik&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+</p>
+
+📈 Contribution Activity Graph
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chirasmita-pattanaik&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</p>
+
+🏆 GitHub Trophies
+
+<p align="center">
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=chirasmita-pattanaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies" />
+</p>
+
+🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/chirasmita-pattanaik/chirasmita-pattanaik/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
+<p align="center">
+<b>✨ Thanks for visiting my profile! ✨</b>
+<br/>
+<i>Keep learning, keep building, and keep growing! 🚀</i>
+</p>
+
+<p align="center">
+⭐ From <a href="https://github.com/chirasmita-pattanaik">Chirasmita Pattanaik</a>
+</p>
